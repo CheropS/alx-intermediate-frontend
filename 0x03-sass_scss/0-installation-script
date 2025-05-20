@@ -1,0 +1,10 @@
+# Steps for creating a scss script 
+
+Created a new folder 0x03-sass_scss
+
+Installed SASS in my local machine by running the command: 
+" $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash"""
+after successfully installing SASS, I ran the command:
+"exit" to close my terminal and opened a new terminal.
+
+I then created a new file called 0-installation-script.sh and added the following code:. 
